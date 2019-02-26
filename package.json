@@ -9,9 +9,7 @@
     "type": "git",
     "url": "git@github.com:kt3ps/diff-match-patch-nodejs.git"
   },
-  "keywords": [
-    "diff-match-patch",
-  ],
+  "keywords": ["diff-match-patch"],
   "bugs": {
     "url": "https://github.com/kt3ps/diff-match-patch-nodejs/issuess"
   },
