@@ -1,0 +1,20 @@
+{
+  "name": "diff-match-patch-nodejs",
+  "version": "1.0.1",
+  "main": "src/index.js",
+  "description": "Npm package for node.js for https://github.com/google/diff-match-patch/javascript",
+  "author": "kt3ps",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kt3ps/diff-match-patch-nodejs.git"
+  },
+  "keywords": [
+    "diff-match-patch",
+  ],
+  "bugs": {
+    "url": "https://github.com/kt3ps/diff-match-patch-nodejs/issuess"
+  },
+  "homepage": "https://github.com/kt3ps/diff-match-patch-nodejs/blob/master/README.md",
+  "devDependencies": {}
+}
